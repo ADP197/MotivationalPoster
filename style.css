@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+}
+
+.poster{
+    width:50%;
+    margin-left: 25%;
+    margin-top:100px;
+    text-align: center;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+img{
+    width:100%;
+    max-height:100%;
+    border: 5px white solid;
+}
+
+h1{
+    background-color: black;
+    color: white;
+    font-size:3rem;
+
+}
+
+p{
+    background-color: black;
+    color:white;
+    
+}
